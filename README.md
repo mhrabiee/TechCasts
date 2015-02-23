@@ -1,0 +1,30 @@
+# TechCasts
+A curated list of podcasts and video shows on design, development, freelancing and startups.
+## Podcasts 
+* [99% Invisible](http://99percentinvisible.org/)
+* [Apply Filters](http://applyfilters.fm/)
+* [Back to Front Show] (http://backtofrontshow.com/)
+* [Beyond Ink](http://www.beyondink.co.uk/)
+* [Boagworld Show](https://boagworld.com/show/)
+* [CodePen Radio](http://blog.codepen.io/radio/)
+* [Developer Tea](http://www.developertea.com/)
+* [Happy Monday](http://www.happymondaypodcast.com/)
+* [Invisible Office Hours](http://invisibleofficehours.com/)
+* [Narwhals](http://www.narwhals.cool/)
+* [One Design Podcast](http://onedesign.guide/)
+* [PageBreak Podcast](http://www.pagebreakpodcast.com/)
+* [Rocketship.fm](http://rocketship.fm/)
+* [Shop Talk Show](http://shoptalkshow.com/)
+* [Signal Tower](http://signaltower.co/)
+* [The Big Web Show](http://www.zeldman.com/category/the-big-web-show/)
+* [The Design Details Podcast](http://www.designdetails.fm/)
+* [The Freelance Web](http://www.thefreelanceweb.com/)
+* [The Industry Podcast](http://theindustry.cc/category/podcast/)
+* [The Start](http://thestart.fm/)
+* [Unfinished Business](http://www.unfinished.bz/)
+* [WebPayload Podcast](http://www.webpayload.com/podcast)
+* [Working Out Podcast](http://workingoutpodcast.com/)
+
+## Vodcasts
+* [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)
+* [Digital Telepathy TV](http://www.dtelepathy.com/dt-tv/)
