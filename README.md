@@ -67,3 +67,5 @@ A curated list of podcasts and video shows on design, development, freelancing a
 ## Vodcasts
 * [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)
 * [Digital Telepathy TV](http://www.dtelepathy.com/dt-tv/)
+* [The Treehouse Show](http://teamtreehouse.com/library/the-treehouse-show)
+* [Build Podcast](http://build-podcast.com/)
