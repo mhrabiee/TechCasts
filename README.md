@@ -12,6 +12,7 @@ A curated list of podcasts and video shows on design, development, freelancing a
 * [Coding 101](http://twit.tv/show/coding-101)
 * [Developer Tea](http://www.developertea.com/)
 * [Developing Perspective](http://developingperspective.com/)
+* [Exponent](http://exponent.fm/)
 * [Free as in Freedom](http://faif.us/)
 * [FLOSS Weekly](http://twit.tv/show/floss-weekly)
 * [Happy Monday](http://www.happymondaypodcast.com/)
