@@ -3,9 +3,10 @@ A curated list of podcasts and video shows on design, development, freelancing a
 
 ## Podcasts
 * [99% Invisible](http://99percentinvisible.org/)
+* [Accidental Tech Podcast](http://atp.fm/)
 * [Agile Tooklit Podcast](http://agiletoolkit.libsyn.com/)
 * [Apply Filters](http://applyfilters.fm/)
-* [Accidental Tech Podcast](http://atp.fm/)
+* [Arrested DevOps](http://www.arresteddevops.com/)
 * [Back to Front Show](http://backtofrontshow.com/)
 * [Beyond Ink](http://www.beyondink.co.uk/)
 * [Boagworld Show](https://boagworld.com/show/)
@@ -30,6 +31,7 @@ A curated list of podcasts and video shows on design, development, freelancing a
 * [Mac Power Users](http://5by5.tv/mpu)
 * [Narwhals](http://www.narwhals.cool/)
 * [Nerdist Podcast](http://www.nerdist.com/podcast_channel/nerdist-podcast-channel/)
+* [Non Breaking Space Show](http://goodstuff.fm/nbsp/)
 * [NodeUp](http://nodeup.com/)
 * [NPR Technology](http://www.npr.org/sections/technology/)
 * [One Design Podcast](http://onedesign.guide/)
@@ -63,6 +65,7 @@ A curated list of podcasts and video shows on design, development, freelancing a
 * [The News](http://5by5.tv/news)
 * [The MacCast](http://www.maccast.com/)
 * [The Retrobits Podcast](http://retrobits.libsyn.org/)
+* [The Ship Show](http://theshipshow.com/)
 * [The Start](http://thestart.fm/)
 * [The UX Intern](http://theuxintern.com/)
 * [The Vergecast](http://www.theverge.com/label/the-vergecast)
@@ -78,7 +81,9 @@ A curated list of podcasts and video shows on design, development, freelancing a
 * [Working Out Podcast](http://workingoutpodcast.com/)
 
 ## Vodcasts
+* [Build Podcast](http://build-podcast.com/)
 * [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)
 * [Digital Telepathy TV](http://www.dtelepathy.com/dt-tv/)
 * [The Treehouse Show](http://teamtreehouse.com/library/the-treehouse-show)
-* [Build Podcast](http://build-podcast.com/)
+* [Web Dev Break](http://www.webdevbreak.com/)
+
