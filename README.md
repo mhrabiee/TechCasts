@@ -24,7 +24,6 @@ A curated list of podcasts and video shows on design, development, freelancing a
 * [iMore Vector](http://www.imore.com/vector)
 * [iMore Iterate](http://www.imore.com/iterate)
 * [Invisible Office Hours](http://invisibleofficehours.com/)
-* [In Beta](http://5by5.tv/inbeta)
 * [JavaScript Jabber](http://javascriptjabber.com/)
 * [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/)
 * [Let's Make Mistakes](http://www.muleradio.net/mistakes/)
