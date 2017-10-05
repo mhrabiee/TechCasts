@@ -15,6 +15,7 @@ A curated list of podcasts and video shows on design, development, freelancing a
 * [Developer Tea](http://www.developertea.com/)
 * [Developing Perspective](http://developingperspective.com/)
 * [Dorm Room Tycoon](http://drt.fm/)
+* [Everyone Hates Marketers](https://everyonehatesmarketers.com/)
 * [Exponent](http://exponent.fm/)
 * [Free as in Freedom](http://faif.us/)
 * [FLOSS Weekly](http://twit.tv/show/floss-weekly)
